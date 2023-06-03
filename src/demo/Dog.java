@@ -12,5 +12,7 @@ public class Dog extends abstractAimal {
 		System.out.println("Dog is Barking");
 		
 	}
+	
+
 
 }
